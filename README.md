@@ -6,7 +6,6 @@ Main Animation Widgets used in this application:
     • AnimatedOpacity
     • AnimatedList
     • ScaleAnimation
-    • Change Color
     • AnimatedPadding
     • AnimatedBuilder
     • AnimatedDefaultTextStyle
